@@ -7,15 +7,15 @@
         "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/everforest\/main\/themes\/everforest.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/906968508494139422\/1206573002964340787\/4HwZOqcZPIU.jpg?ex=65dc7fac&is=65ca0aac&hm=90b90",
-        "overlay_alpha": 20,
-        "blur_radius": 20
+        "url": "https:\/\/github.com\/bloodyrowan\/Impulse\/blob\/main\/Lappland.jpg",
+        "overlay_alpha": 0,
+        "blur_radius": 0
     },
     "fonts": {
-        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/906968508494139422\/1206573813568110682\/El_Messiri-regular.ttf?raw=1",
-        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/906968508494139422\/1206573813568110682\/El_Messiri-regular.ttf?raw=1",
-        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/906968508494139422\/1206573813568110682\/El_Messiri-regular.ttf?raw=1",
-        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/906968508494139422\/1206573813568110682\/El_Messiri-regular.ttf?raw=1"
+        "ginto_bold": "https:\/\/github.com\/bloodyrowan\/Impulse\/blob\/main\/El%20Messiri.ttf?raw=1",
+        "whitney_bold": "https:\/\/github.com\/bloodyrowan\/Impulse\/blob\/main\/El%20Messiri.ttf?raw=1",
+        "whitney_medium": "https:\/\/github.com\/bloodyrowan\/Impulse\/blob\/main\/El%20Messiri.ttf?raw=1",
+        "whitney_semibold": "https:\/\/github.com\/bloodyrowan\/Impulse\/blob\/main\/El%20Messiri.ttf?raw=1"
     },
     "simple_colors": {
         "accent": -11774630,
